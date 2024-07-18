@@ -1,0 +1,6 @@
+secrets.py
+settings.py
+secrets.toml
+
+*.pyc
+
