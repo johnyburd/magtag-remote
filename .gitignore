@@ -1,5 +1,6 @@
 secrets.py
 settings.py
+settings.toml
 secrets.toml
 
 *.pyc
